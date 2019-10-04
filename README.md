@@ -8,4 +8,4 @@ Also some to convert JSON Schemas to AVRO:
 
 This package assumes you have sample data but no pre-existing schema. It uses [@avro/types](https://www.npmjs.com/package/@avro/types) to help convert JSON to an AVRO buffer.
 
-See also: [advice](./advice.md)
+See also: [advice](./advice.md), [overview](./overview.md)
