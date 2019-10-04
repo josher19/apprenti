@@ -4,7 +4,7 @@
 
 Know what you want to accomplish, but take some time to break the problem down into smaller problems. [Behavior Driven Development (BDD)](https://en.wikipedia.org/wiki/Behavior-driven_development) and to a lesser extent, [Test Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development) can help with thinking about likely input and desired output and help you avoid [tight coupling](https://stackoverflow.com/questions/2832017/what-is-the-difference-between-loose-coupling-and-tight-coupling-in-the-object-o) and side-effects.
 
-## Built on the shoulder of ... :computer:
+## Build on the shoulder of ... :computer: package managers
 
 Don't start from scratch if you don't have to. Look for a package manager which has packages that other people have written and actively develop and maintain. 
 
@@ -13,8 +13,8 @@ Don't start from scratch if you don't have to. Look for a package manager which 
 * Java and Scala: maven via https://mvnrepository.com/
 * .NET: https://www.nuget.org/
 * MacOS: https://brew.sh/
-* Windows: https://chocolatey.org/
-* _(Almost) Everything_: https://libraries.io/
+* Windows: https://chocolatey.org/ :chocolate_bar:
+* _(Almost) Everything_: https://libraries.io/ :books:
 
 Look at number of downloads, how aften it is updated, how long it has been around, Github stars and so on to see if it likely to be actively maintained. Otherwise you might need to fork the reposity on Github and maintain it yourself at some point.
 
@@ -65,18 +65,18 @@ Look at number of downloads, how aften it is updated, how long it has been aroun
         - If you are stuck, ask for help
         - Help others who get stuck (empathy)
     * Where to go for help
-        - Good to ask questions
+        - (Usually) okay to ask questions (earphones == in coding flow)
         - But first might check your company's available source code and then Stack Overflow
         - See if this problem has already been solved
-        - Open Source solutions vs. vendor lock in
+        - Open Source solutions and/or vendor lock in
         - Networking
     * Beware of Scope Creep
         - adding too much too soon worse than Minimum Viable Product (MVP) with real user feedback
-    * Better to over-estimate time and beat your estimate than to under-estimate and be late
-- Culture
+    * Better to over-estimate time and beat your estimate than to under-estimate and be late & over budget :money_with_wings:
+- Cultural Fit (and interviews)
     - Command and Control
-        * From Ship Captain to Captains of Industry to Global CEO's
-            - Shareholder Value vs. Stakeholder Values
+        * From Ship Captain to Captains of Industry and Industrialism to Global CEO's
+            - Shareholder Value $$$ vs. Stakeholder Values
     - [Open / Agile](https://www.openagile.org/)
         * Transparency (Truthfulness)
         * Retrospective as part of the Learning Circle
