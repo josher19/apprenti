@@ -1,4 +1,4 @@
-This will convert JSON files and JavaScript Objects to an inferred AVRO schema
+This will convert JSON files and JavaScript Objects to an inferred AVRO schema using [NodeJS](https://nodejs.org/en/)
 
 Already have a few node packages to convert AVRO to Typescript:
 - https://www.npmjs.com/search?q=AVRO%20to%20Typescript
