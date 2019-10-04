@@ -1,0 +1,21 @@
+{
+  "name": "infer-avro-schema",
+  "version": "1.0.0",
+  "description": "This will convert JSON to AVRO schema",
+  "main": "index.js",
+  "dependencies": {
+    "@avro/types": "^1.0.5"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest ."
+  },
+  "keywords": [
+    "avro",
+    "json"
+  ],
+  "author": "Joshua Weinstein <josher19@gmail.com>",
+  "license": "MIT"
+}
