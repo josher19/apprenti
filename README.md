@@ -1,3 +1,5 @@
+# Scope of Work
+
 This will convert JSON files and JavaScript Objects to an inferred AVRO schema
 
 Already have a few node packages to convert AVRO to Typescript:
