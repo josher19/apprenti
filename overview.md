@@ -5,3 +5,5 @@
 - [Assignment](README.md)
 - [Advice](advice.md)
 - [Testing](./__tests__)
+- [Debugging](Debugging.md)
+- [Emoji! :sunglasses:](emoji.md)
