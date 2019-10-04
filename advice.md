@@ -4,6 +4,8 @@
 
 Know what you want to accomplish, but take some time to break the problem down into smaller problems. [Behavior Driven Development (BDD)](https://en.wikipedia.org/wiki/Behavior-driven_development) and to a lesser extent, [Test Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development) can help with thinking about likely input and desired output and help you avoid [tight coupling](https://stackoverflow.com/questions/2832017/what-is-the-difference-between-loose-coupling-and-tight-coupling-in-the-object-o) and side-effects.
 
+In many ways, software Development is more about problem solving than coding.
+
 ## Build on the shoulder of ... :computer: package managers
 
 Don't start from scratch if you don't have to. Look for a package manager which has packages that other people have written and actively develop and maintain. 
@@ -51,7 +53,8 @@ Look at number of downloads, how aften it is updated, how long it has been aroun
             - `:q` or `:x`
             - useful to know if you are doing lots of server side and/or Docker development
         - VSCode
-            - Snippets
+            - [Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+                * Preferences > User Snippets > Javascript (JS)
             - Stack traces
                 * Find first or last error in your own code
                 * If the error is easy to fix and in an imported library, don't be afraid to make a [PR](https://github.com/Marak/colors.js/pull/261/files) (with tests)
