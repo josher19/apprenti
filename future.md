@@ -4,14 +4,6 @@
 
 _Note_: It is easy to **over-estimate** the effect of technology in 2-5 years and severely **underestimate** effect in 10+ years.
 
-## Less of:
-- Older "Big Data" Technologies
-    - Hadoop
-    - Spark ML
-    - Scala
-- Competitive advantage
-- International influence :us:
-
 ## More of:
 - Full Stack developers
     - JavaScript
